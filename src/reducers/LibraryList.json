@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "title": "Kathmandu",
+        "description": "Most trips to Nepal usually start and finish in Kathmandu, the country’s capital. Yet there’s so much going on in and around Kathmandu that it’s easy to spend your whole trip there. Take a step back in time as you navigate through the city’s ancient alleyways, notably around Thamel. You’ll pass by sacred religious sites, through markets of all sorts, past hole-in-the-wall eateries, and all round the intricate wooden architecture of the city’s close-quartered alleyways. Make your way up to Swayambhunath Temple, also known as Monkey Temple, for a sweeping panoramic view over Kathmandu. As the name suggests, you will see monkeys. Also visit Boudhanath Stupa, one of the largest Buddhist stupas in the world. The Stupa is adorned with the ubiquitous all-seeing eyes of Buddha, that always seem to be peering over you. Do as the locals do and push the prayer wheels as you circle the white mammoth in a clockwise motion."
+    },
+    {
+        "id": 1,
+        "title": "Pokhara",
+        "description": "Pokhara is the last stop for many travellers finishing a hike in the Annapurna region of the Himalayas. However, this city and its enchanting surroundings make for a great place to visit, regardless if you’re stepping down from the mountains. Nepal’s second biggest city, it’s also one of the best places to unwind.Pokhara is situated along the picturesque Phewa laka, which makes for lovely walks around its shore. This lake is the second largest in Nepal, and there’s no better way to see it than via a boat trip. Intrepid also offers a yoga class on its tour, to continue the zen-like, Nepalese existence Pokhara offers."
+    },
+    {
+        "id": 2,
+        "title": "Chitwan National Park",
+        "description": "Far way from the mountains, on Nepal’s southern border, sits Chitwan National Park, where Nepal is at its most wild. Chitwan is home to some of the best wildlife viewing spots in all of Asia, particularly for Asian elephants, as well as a horde of other elusive animals. The World Heritage reserve is a 932 sq km network of grasslands, forests, marshland, and jungle. Pure wilderness. The Park has seen a healthy growth of tigers and rhinos in recent years, making your chances pretty good of seeing a one-horned rhino. Park goers should also be on the look for deer, monkeys, hundreds of species of birds, sloth bears, and the park’s main tourist grab: the chance seeing the magnificent royal Bengal tiger. Tiger sightings are fairly rare, but you just never know! Whatever wildlife you do see, Chitwan is not a park you’ll forget in a hurry."
+    },
+    {
+        "id": 3,
+        "title": "Trisuli River",
+        "description": "The 206km of unforgettable countryside connecting Nepal’s two largest cities – Kathmandu and Pokhara – showcases ancient temples and historic villages. But, just as before, there’s something for the more adventurous, too. Those seeking an adrenaline rush and wanting to see the countryside from a different view can take a white-water rafting trip down the Trisuli River. Intrepid’s new hike, bike and raft tour spends two days on the Trisuli River, making it easy to get up close and personal with some of Nepal’s raging rapids."
+    },
+    {
+        "id": 4,
+        "title": "Bhaktapur",
+        "description": "Though Nepal is becoming increasingly modernised, some parts still look and feel like you’re in a land frozen in time from centuries ago. There may not be a better example of this than in Bhaktapur, the best-preserved medieval town in Nepal. A UNESCO World Heritage site, Bhaktapur’s Durbar Square is centuries old, and is the perfect place to wander around aimlessly staring at well-preserved temples. Many of the square’s pagodas were damaged in the devastating 2015 earthquake, however, restoration processes are in place. Bhaktapur is also the place to see Newari men passing the day by chatting, sipping tea, and playing cards, Meanwhile, school children roam through the brick streets, passing skilled artisans creating traditional art."
+    },
+    {
+        "id": 5,
+        "title": "Panauti",
+        "description": "Yet another area in Nepal where time seems to stand perfectly still. Panauti is a quaint town of about 10,000 inhabitants, steeped in tradition and culture. It sits where the sacred Roshi Khola and Pungamati Khola rivers meet, making the town a sacred place itself. The serene village is home to many sacred temples, and exploring them during dusk and dawn make for a magical experience, which makes Panauti seem far, far away from the chaotic streets of nearby Kathmandu. Pilgrims make their way to Panauti every year during the religious Magh Sankranti festival, where they bathe at the confluence of the two sacred rivers."
+    }
+]
